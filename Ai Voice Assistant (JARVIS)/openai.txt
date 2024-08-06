@@ -1,0 +1,4 @@
+
+api key = "sk-GL0nEivo8NE62V3zBkdD80EWHoqisqQq-F3ksAHAxgT3BlbkFJNsEMuGUHi14SXZ3M_0am7b_WUez3qQhqOcpgjz2OsA"
+gemini = AIzaSyAyl0nFBTdw8E2uWX0bj0GmxjGS07u8haw
+AIzaSyDIvAAsS7mQPh-PRLjtyywgcWfHbYIHZHA
